@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello world!
 
+- I'm currently studiyng in university
+- I'm studying IT speciality, in the future I will be Full-Stack Developer
+- I want to work in good IT company, where I can be able to upgrade my skills in IT sphere
+- I look for good services to study
+- Pronouns: He/him
+- Fun fact: My nickname was created by combining my real name and surname. Madi + Kenzhebayev = Madik
 <!--
 **Madik981/Madik981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
